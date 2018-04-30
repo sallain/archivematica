@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Priority: Critical",
+    "color": "#b60205"
+  },
+  {
+    "name": "Priority: High",
+    "color": "#eb6420"
+  },
+  {
+    "name": "Priority: Low",
+    "color": "#fef2c0"
+  },
+  {
+    "name": "Priority: Medium",
+    "color": "#fbca04"
+  },
+  {
+    "name": "bug",
+    "color": "#fc2929"
+  },
+  {
+    "name": "discussion-requested",
+    "color": "#aee589"
+  },
+  {
+    "name": "duplicate",
+    "color": "#cccccc"
+  },
+  {
+    "name": "enhancement",
+    "color": "#84b6eb"
+  },
+  {
+    "name": "good first issue",
+    "color": "#9900ff"
+  },
+  {
+    "name": "help wanted",
+    "color": "#159818"
+  },
+  {
+    "name": "invalid",
+    "color": "#cccccc"
+  },
+  {
+    "name": "question",
+    "color": "#cc317c"
+  },
+  {
+    "name": "wontfix",
+    "color": "#ffffff"
+  }
+]
